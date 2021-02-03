@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\pizza"
+		},
+		{
+			"path": "..\\cc80"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cc80"
+	}
+}
